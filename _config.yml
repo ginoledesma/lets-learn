@@ -1,0 +1,32 @@
+# Site settings
+
+title: Let's Learn…
+email: gledesma@gmail.com
+description: >-
+  Notes on picking up another language.
+baseurl: "/lets-learn/"
+url: "https://ginoledesma.github.io/lets-learn/"
+github_username:  ginoledesma
+
+# Author Settings
+author: Gino Ledesma
+author-img: gino-ledesma.jpg
+social-github: ginoledesma
+social-email: gledesma@gmail.com
+
+# Build settings
+markdown: kramdown
+remote_theme: artemsheludko/flexible-jekyll
+plugins:
+  - jekyll-toc
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+
+kramdown:
+  parse_block_html: true
+
+furigana: true
+
+paginate: 10
+paginate_path: "/page/:num"
