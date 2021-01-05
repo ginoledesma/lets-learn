@@ -3,7 +3,8 @@ title: "Pimsleur - Japanese 3 - Unit 2"
 date: 2020-05-06 08:19:13 -0700
 description: Unit 2 of Pimsleur's Japanese 3
 categories: [japanese]
-tags: [japanese, pimsleur]
+tags: [japanese, pimsleur, japanese-3, level-3]
+published: false
 ---
 
 We cover a little bit of hobbies and jobs/professions.

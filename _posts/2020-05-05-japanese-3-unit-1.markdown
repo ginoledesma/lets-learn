@@ -3,7 +3,8 @@ title: "Pimsleur - Japanese 3 - Unit 1"
 date: 2020-05-05 14:42:20 -0700
 description: Unit 2 of Pimsleur's Japanese 3
 categories: [japanese]
-tags: [japanese, pimsleur]
+tags: [japanese, pimsleur, japanese-3, level-3]
+published: false
 ---
 
 In this lesson, we learn a little bit more about past events, including how to say *last year* and how to use cold and hot in the past tense.
